@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400;500;600;700&family=Roboto:ital,wght@0,100;0,900;1,400&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+.box {
+    margin: 60px;
+    width: 500px;
+    height: 1220px;
+    background: #e7dedd;
+    border: 2px solid black;
+}
+
+.nuotrauka {
+    margin: 102px;
+    width: 288px;
+    height: 388px;
+    border: 2px dotted black;
+    padding: 2px;
+    background: #e9f2fa;
+    
+   
+}
+
+.apiemane {
+    margin: 48px;
+    width: 400px;
+    height: 560px;
+    border: 1px solid black;
+    color: #9b898b;
+    background: #d1d6e6;   
+}
+
+p {
+    margin: 20px;
+}
